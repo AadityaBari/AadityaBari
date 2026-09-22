@@ -10,15 +10,5 @@ B.TECH computer science   student<br><br>passionate  about soft ware Development
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AadityaBari &theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AadityaBari &icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->Hi 
-I am a programmer
-<pre>
-  __________                                                                 
-\______   \_______  ____   ________________    _____   _____   ___________ 
- |     ___/\_  __ \/  _ \ / ___\_  __ \__  \  /     \ /     \_/ __ \_  __ \
- |    |     |  | \(  <_> ) /_/  >  | \// __ \|  Y Y  \  Y Y  \  ___/|  | \/
- |____|     |__|   \____/\___  /|__|  (____  /__|_|  /__|_|  /\___  >__|   
-                        /_____/            \/      \/      \/     \/       
+[![](https://komarev.com/ghpvc/?username=AadityaBari &icon           
 </pre>
