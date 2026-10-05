@@ -63,26 +63,35 @@ Absolutely — here’s a creative, modern GitHub profile README for **Aaditya P
 
 ---
 
- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
- \<p align="center"\> \<img src="https://github-readme-stats.vercel.app/api?username=AadityaBari&show\_icons=true&theme=tokyonight&hide\_border=true" height="180"/\> \<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaBari&layout=compact&theme=tokyonight&hide\_border=true" height="180"/\> \</p\>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AadityaBari&show_icons=true&height=180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaBari&layout=compact&height=180" />
+</p>
+
 ---
 
- ## 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
- \<p align="center"\> \<img src="https://streak-stats.demolab.com?user=AadityaBari&theme=tokyonight&hide\_border=true" /\> \</p\>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AadityaBari&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
- ## 🐍 My Contribution Journey
+## 🐍 My Contribution Journey
 
- \<p align="center"\> \<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" /\> \</p\>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
- ## 🌐 Connect With Me
+## 🌐 Connect With Me
 
- \<p align="center"\> \<a href="https://github.com/AadityaBari"\> \<img src="https://img.shields.io/badge/GitHub-AadityaBari-181717?style=for-the-badge&logo=github"/\> \</a\> \</p\>
----
-
- \<p align="center"\> \<b\>⭐ Thanks for visiting my profile!\</b\> \<br\> \<i\>Let's build something awesome together 🚀\</i\> \</p\>
-
- This version is designed to look polished while still being easy to customize as your skills and projects grow.
+<p align="center">
+  <a href="https://github.com/AadityaBari">
+    <img src="https://img.shields.io/badge/GitHub-AadityaBari-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
